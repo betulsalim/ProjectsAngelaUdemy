@@ -1,0 +1,30 @@
+body {
+    font-family: "Libre Baskerville", serif;
+    background-color: black;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+.image-container,h1 {
+    text-align: center;
+}
+
+.image-container img {
+    max-width: 35%;
+    max-height: 50%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+h1, h2, h3 {
+    font-style: italic;
+    margin: 0;
+    padding: 10px;
+}
+
+hr {
+    border: 1px solid white;
+    margin: 20px 0;
+}
