@@ -1,0 +1,52 @@
+h2{
+    color: rgb(248, 190, 32);
+    font-family: "Inter", sans-serif;
+  
+  font-weight: 500px;;
+  font-style: italic;
+}
+h1{
+    font-family: "Inter", sans-serif;
+    font-weight: 800;
+}
+span{
+    color: rgb(8, 8, 75);
+}
+.image-text-container {
+    font-family: "Inter", sans-serif;
+    margin-top: 40px;
+    display: flex;
+    align-items: flex-start; /* Aligns the top of the image with the text */
+  }
+  
+  .image, .image2 {
+    width: 200px; /* Adjust as needed */
+    margin-right: 40px; /* Adds space between the image and the text */
+  }
+  
+  .text-container {
+    display: block; /* Keep text elements aligned in a block */
+  }
+  
+  .title {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px; /* Adds a small space between title and paragraph */
+  }
+  
+  .text {
+    margin-top: 0; /* Removes default margin from the paragraph */
+    font-size: 16px;
+    color: #333;
+  }
+  .image2{
+    margin-left: 20%;
+  }
+  .last-one{
+    margin-left: 73%;
+    margin-top: 15%;
+    color: rgb(43, 43, 201);
+  }
+.big-one{
+    margin-left: 80px;
+}
